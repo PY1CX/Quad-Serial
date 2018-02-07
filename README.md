@@ -7,7 +7,7 @@ Quad Serial is a project with four serial ports. The goal is to provide a way to
 * 2 Any level UARTs, you can use them anywhere from 1.8V to 5V
 
 Final product
-![Preview](https://github.com/PY1CX/Quad-Serial/blob/master/Final_Front_Low.jpg?raw=true)
+![Preview](https://github.com/PY1CX/Quad-Serial/blob/master/HW%20v1.0/Output%20Files/Final_Front_Low.jpg?raw=true)
 3D render of the Quad Serial
 ![Preview](http://i.imgur.com/0ZsWIK9.png)
 
